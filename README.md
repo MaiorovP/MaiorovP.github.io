@@ -1,5 +1,5 @@
 # Отчет а лабораторных работах
-# студент группы [ИДБ-16-07](https://github.com/stankin/design-2019/wiki/list-idb-16-07) Майоров П.А.
+# студент группы [ИДБ-16-07](https://github.com/stankin/design-1/wiki/list-idb-16-07) Майоров П.А.
 
 ## Лабораторная 1
 
