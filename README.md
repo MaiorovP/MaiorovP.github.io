@@ -23,6 +23,21 @@
 
 ## Лабораторная 2
 
+<em> Диаграмма IDEF0 </em>
+<br>
+![](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%9B%D0%B0%D0%B12/New%20Folder%20(3)/01_A0.png)
+
+
+<em> Диаграмма IDEF0 - декомпозирование </em>
+<br>
+![](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%9B%D0%B0%D0%B12/New%20Folder%20(3)/02_A0.png)
+
+
+<em> Диаграмма DFD </em>
+<br>
+![](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%9B%D0%B0%D0%B12/New%20Folder%20(3)/03_A2.png)
+
+
 ## Лабораторная 3
 
 
