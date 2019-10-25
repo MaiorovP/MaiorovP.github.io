@@ -13,7 +13,7 @@
 - Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
 [Текст](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.txt) и рисунок диаграммы классов:
-![none](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.pn)
+![none](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.png)
 
 [Текст](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9F%D1%80%D0%B5%D1%86.txt) и рисунок диаграммы прецедентов:
 ![none](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9F%D1%80%D0%B5%D1%86.png)
