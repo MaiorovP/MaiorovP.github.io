@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Механик" as P {
+ Набор инструментов,
+Отремонтированный автомобиль, Ремонтировать автомобиль (Сломанный автомобиль, Требования владельца)
+}
+hide circle
+@enduml
