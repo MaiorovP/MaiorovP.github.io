@@ -6,8 +6,9 @@
 Создание IDEF0-диаграммы "Обновление приложения по методологии Agile" в RAMUS (программное средство разработки структурно-функциональных моделей).
 
 - IDEF0-диаграмма в развернутом виде:
+![none](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/IDEF0-1.png)
 
-[IDEF0-диаграмма в формате .rsf](http://example.com)
+[IDEF0-диаграмма в формате .rsf](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/IDEF0-1.rsf)
 
 - Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
