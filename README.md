@@ -16,6 +16,7 @@
 ![none](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.png)
 
 [Текст](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9F%D1%80%D0%B5%D1%86.txt) и рисунок диаграммы прецедентов:
+<br>
 ![none](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9F%D1%80%D0%B5%D1%86.png)
 
 C моделью можно ознакомиться по [ссылке](https://maiorovp.github.io/index.html)
@@ -49,6 +50,8 @@ C моделью можно ознакомиться по [ссылке](https:/
 <br>
 ![](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%9B%D0%B0%D0%B12/New%20Folder%20(3)/03_A2.png)
 
+[Текст](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/DiarPosl) и рисунок диаграммы представления:
+<br>
 <em> Диаграмма представления </em>
 <br>
 ![](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9F%D0%BE%D1%81%D0%BB.png)
