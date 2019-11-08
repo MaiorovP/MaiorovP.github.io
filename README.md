@@ -52,6 +52,5 @@ C моделью можно ознакомиться по [ссылке](https:/
 
 [Текст](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/DiarPosl) и рисунок диаграммы представления:
 <br>
-<em> Диаграмма представления </em>
 <br>
 ![](https://github.com/MaiorovP/MaiorovP.github.io/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%9F%D0%BE%D1%81%D0%BB.png)
