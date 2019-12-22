@@ -1,0 +1,33 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Модули"
+
+class Forms as "Экранные формы"
+
+class F1 as "Форма \n добавления в \n каталог"
+class F2 as "Форма \n размещения \n на сайте"
+class F3 as "Форма \n написания \n сообщения"
+class F4 as "Форма \n работы с \n сообщениями"
+class F5 as "Форма \n оформления \n заявки"
+
+
+
+
+Entity <|-- Forms 
+
+Forms <|-- F1
+Forms <|-- F2
+Forms <|-- F3
+Forms <|-- F4
+Forms <|-- F5
+
+
+
+hide members
+hide circle
+hide methods
+@enduml
